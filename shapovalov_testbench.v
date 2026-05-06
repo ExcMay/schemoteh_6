@@ -27,7 +27,7 @@ begin
     #400 $finish;
 end
 
-// ТЕСТИ (без конфліктів!)
+// ТЕСТИ
 initial
 begin
     // Тест 1
